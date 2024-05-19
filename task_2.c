@@ -10,9 +10,9 @@
 
 // OR
 int main(void) {
-    printf("%9s", "Let's\n");
-    printf("%9s", "go\n");
-    printf("%14s", "to walk");
+    printf("%9s\n", "Let's");
+    printf("%9s\n", "go");
+    printf("%15s", "to walk");
 
     return 0;
 }
